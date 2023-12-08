@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pose_detection</string>
+    <string name="rotate">Rotate</string>
+    <string name="predict">Predict</string>
+</resources>
